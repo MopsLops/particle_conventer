@@ -1,4 +1,4 @@
-# Particle converter from obj
+# Particle converter from obj and mtl files
 Particle Converter is an application for converting obj and mtl files into particle commands.
 
 ## ScreenShot
